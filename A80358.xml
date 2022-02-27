@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Conscience puzzel'd, about subscribing the new Engagement; in the solution of this quæere: whether a man that hath taken the oaths of allegiance, and supremacy, the protestation and covenant, may, upon the alteration of the government from a monarchy into a free state, subscribe this ensuing engagement? I A.B. declare, and promise to be true and faithfull to the Common-wealth of England, as it is now established without King and House of Lords.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80358</idno>
+            <idno type="STC">Wing C5899</idno>
+            <idno type="STC">Thomason E585_7</idno>
+            <idno type="STC">ESTC R206262</idno>
+            <idno type="EEBO-CITATION">99865434</idno>
+            <idno type="PROQUEST">99865434</idno>
+            <idno type="VID">165493</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80358)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165493)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 90:E585[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Conscience puzzel'd, about subscribing the new Engagement; in the solution of this quæere: whether a man that hath taken the oaths of allegiance, and supremacy, the protestation and covenant, may, upon the alteration of the government from a monarchy into a free state, subscribe this ensuing engagement? I A.B. declare, and promise to be true and faithfull to the Common-wealth of England, as it is now established without King and House of Lords.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeer, 1650. [i.e. 1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Dec: 20th 1649"; the 50 in the imprint has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Allegiance --  England --  Early works to 1800.</term>
+               <term>Authority --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165493:1" rendition="simple:additions"/>
+            <p>CONSCIENCE PUZZEL'D, ABOUT Subſcribing the <hi>New Engagement;</hi> in the Solution of this <hi>Quaere:</hi> Whether a man that hath taken the Oaths of <hi>Allegiance,</hi> and <hi>Supremacy,</hi> the <hi>Proteſta<g ref="char:EOLhyphen"/>tion</hi> and <hi>Covenant,</hi> may, upon the alteration of the Government from a <hi>Monarchy</hi> into a <hi>Free State,</hi> ſubſcribe this enſuing <hi>Engagement?</hi>
+               <q>I <hi>A. B.</hi> declare, and promiſe to be true and faithfull to the Common<g ref="char:EOLhyphen"/>wealth of ENGLAND, as it is now eſtabliſhed without <hi>King</hi> and Houſe of <hi>Lords.</hi>
+               </q>
+            </p>
+            <q>
+               <bibl>Zach. 8. 17.</bibl>
+               <p>
+                  <hi>Love no falſe Oath: for this is a thing that I hate, ſaith the Lord.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Rom. 14. 22, 23.</bibl>
+               <p>
+                  <hi>Happy is he that condemneth not himſelf in that thing which he al<g ref="char:EOLhyphen"/>loweth.</hi>
+               </p>
+               <p>
+                  <hi>And he that doubteth, is damned if he eat.</hi>
+               </p>
+            </q>
+            <p>Printed in the Yeer, 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:165493:2"/>
+            <pb n="3" facs="tcp:165493:2"/>
+            <epigraph>
+               <q>
+                  <seg rend="decorInit">I</seg> A. B. declare and promiſe, That I will be true and faith<g ref="char:EOLhyphen"/>full to the Common-wealth of <hi>England,</hi> as it is now eſtabliſhed without <hi>King,</hi> and Houſe of <hi>Lords.</hi>
+               </q>
+            </epigraph>
+            <p>The Queſtion is, <hi>Whether a man that hath taken the Oaths of Allegiance and Supremacy, the Proteſtation, and Covenant, may upon the alteration of the Government from a Monarchy into a Free State, ſubſcribe this Engagement.</hi>
+            </p>
+            <p>
+               <label>Premiſe.</label>
+            </p>
+            <p>THere is no doubt, but unengaged men may: All Go<g ref="char:EOLhyphen"/>vernments being of themſelves equally lawfull. And, were we upon the point of chooſing a Government, we know no reaſon to compell us to pitch upon a Monarchy more then a Common-wealth. And (whatever may be ſaid in Law for the childes virtuall obligation to the Oaths of this nature, wherein his father was perſonally engaged) we ſee no reaſon in Divinity, but our children, who never were en<g ref="char:EOLhyphen"/>gaged by the Oaths, Proteſtation, and Covenant above<g ref="char:EOLhyphen"/>mention'd may (when they ſhall come to yeers of diſcre<g ref="char:EOLhyphen"/>tion) oblige themſelves either by promiſe, or oath of fealty unto this Government.</p>
+            <p>But the Queſtion is concerning Engaged men: (as all, but a very few, of thoſe, who are lyable to this Subſcription, are.)</p>
+            <p>Anſwer to this may be made in the affirmative, upon two Conceſſions.</p>
+            <pb n="4" facs="tcp:165493:3"/>
+            <p>Firſt, if the words of the Engagement import nothing contrary to thoſe Oaths, Proteſtation and Covenant.</p>
+            <p>2ly, If (upon ſuppoſition that they do import ſomething contrary to thoſe Oaths, &amp;c.) it may be made good unto us, that the obligation of our former Oaths, &amp;c. doth ceaſe upon this new Eſtabliſhment.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conceſſion. </seg>1</label> Firſt, If the words of the Engagement import nothing contrary unto thoſe Oaths, &amp;c. As,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, If by <hi>Common-wealth</hi> be meant the whole com<g ref="char:EOLhyphen"/>pany of men and women, both of higher and lower rank, contained within the bounds and territories of theſe Domi<g ref="char:EOLhyphen"/>nions. So we were wont to call the Common-wealth in the time of Monarchy, unleſſe when we took it for the Civill State, as contra-diſtinct unto the Eccleſiaſticall. And, if it have that large ſignification here, and if the words <hi>(as it is now eſtabliſhed)</hi> be to be underſtood <hi>adverſativè,</hi> and not <hi>re<g ref="char:EOLhyphen"/>duplicativè,</hi> and ſo binde us to be faithfull to the Common-wealth (in this ſenſe) <hi>Licet ſtabilitae,</hi> and not <hi>quâ ſtabilitae abſ<g ref="char:EOLhyphen"/>
+                  <expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Domino Regis, &amp;c.</hi> it will be nothing contrary to our Oaths and Covenants to ſubſcribe thereunto. For unto the Com<g ref="char:EOLhyphen"/>mon-wealth (in this ſenſe) we muſt be faithfull, whatſoever Government it be under. And he that will not be true and faithfull to this Common-wealth, now it is without King and Houſe of Lords, was never (conſcientiouſly) faithfull to it, when it was ſubject to a King, and Houſe of Lords.</p>
+            <p>And we are ſomewhat inclined to think, that this may be the meaning. Becauſe not onely all of lower rank, but alſo all of ſuperior rank (as the Speaker, and the Houſe of Com<g ref="char:EOLhyphen"/>mons, the Lord Preſident, and the Councell of State, the Lord Generall, and Councell of War, &amp;c.) are enjoyned to ſubſcribe. If they (or any of them) be the Common-wealth here meant; we ſomewhat ſtrange at the Injunction. Our Kings were never wont to ſwear fealty to themſelves, or Monarchy. If it may be declared that the words are intend<g ref="char:EOLhyphen"/>ed in the ſenſe above ſpecified, we beleeve the Engagement cannot want Subſcribers. But,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2ly, If the words <hi>(Common wealth of England)</hi> be taken for a certain State of Government, as it ſtands contra-diſtinct to
+<pb n="5" facs="tcp:165493:3"/> Monarchy (as it is generally conceived they are) then (with<g ref="char:EOLhyphen"/>out perjury) engaged men cannot ſubſcribe thereunto, un<g ref="char:EOLhyphen"/>leſſe they fetch ſome help from the expoſition of the words, <hi>True and faithfull.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, If the words <hi>(True and faithfull)</hi> be to be underſtood onely negatively, and oblige a man onely, not to be falſe, or treacherous to, or turbulent in the Common-wealth: we conceive, that a pre-ingaged man may (with a ſafe conſci<g ref="char:EOLhyphen"/>ence) ſubſcribe to this preſent Engagement. Inſomuch as whatſoever we were formerly engaged unto was to be com<g ref="char:EOLhyphen"/>paſſed by all lawfull wayes and means, by every man in his vocation and calling. But for any private man by treachery or turbulency, raiſing tumults and factions to diſquiet the preſent peace (though it be to the attainment of thoſe ends whereunto he was pre-ingaged) is to do evill that good may come thereby, out of his calling and vocation to act for a publick good, which no man (without an immediate call from heaven) hath warrant to do. So that, if it be declared that no more is intended by the words, then what may be comprehended in the negative ſenſe of them, we ſhall not re<g ref="char:EOLhyphen"/>fuſe to ſubſcribe the Engagement, though it be to a Com<g ref="char:EOLhyphen"/>mon-wealth, as it ſtands contra-diſtinct to Monarchy.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2ly, If the words <hi>(true and faithfull)</hi> be to be underſtood poſitively (yet in a ſtrict ſenſe) ſo as to oblige us to ſubmit and yeeld obedience to this State of government <hi>in licitis, honeſtis &amp; neceſſariis,</hi> we may (notwithſtanding our former Oaths) ſubſcribe thereunto. For, as for thoſe things that come within the number of <hi>neceſſaria,</hi> neceſſarie duties to be performed to God, we are obliged unto them, though we were never enjoyned them by men, whoſe command puts a tye upon us, as ſubjects, but ſuch as is of inferior nature to the tye which Gods command puts upon us, as creatures and Chriſtians. And though we obey not the Command (meerly) for the Civil Sanctions ſake; yet we hold our ſelves bound to reverence the Civill Sanction ſo much the more for the Commands ſake. And as for thoſe things which come within the number of <hi>licita &amp; honeſta,</hi> things lawfull and honeſt, though not neceſſary, we count our ſelves obliged
+<pb n="6" facs="tcp:165493:4"/> to the performance of them for the Commands ſake (meer<g ref="char:EOLhyphen"/>ly.) Uncommanded, we may neglect them, becauſe not ne<g ref="char:EOLunhyphen"/>ceſſary: but commanded, we ſhal not refuſe to obſerve them, becauſe lawfull. <hi rend="margQuotes">But we truſt (in the mean while) that none will be ſo irrationall, as to bring that yoke upon us, which neither we nor our fathers were ever able to bear: <hi>viz:</hi> to en<g ref="char:EOLhyphen"/>ſlave us to the performance of meer indifferent things, as ne<g ref="char:EOLhyphen"/>ceſſary duties, where the performance of them doth not ne<g ref="char:EOLhyphen"/>ceſſarily argue us good ſubjects, or good Chriſtians.</hi> But,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3ly. If the words <hi>(true and faithfull)</hi> be to be underſtood poſitively, and in a large ſenſe, ſo as to oblige us to aſſiſt, and defend with our lives and fortunes the preſent Eſtabliſhment, againſt all whatſoever <hi>(though it be the Parliament of Eng<g ref="char:EOLhyphen"/>land it ſelf)</hi> that ſhall (hereafter) endeavour by lawfull means to introduce a Monarchy, or any other State of Go<g ref="char:EOLhyphen"/>vernment in this Nation; we humbly conceive that (without perjurious forcing of our Conſciences) we cannot ſubſcribe hereunto. For this is expreſly againſt the words of our for<g ref="char:EOLhyphen"/>mer Obligations, wherein we are bound with our lives, power, and eſtates, to maintain and defend the power and <note place="margin">
+                  <hi>Prot: May</hi> 5. 1641.</note> priviledges of Parliament. And this were to pawn our ſouls to oppoſe a lawfull Government in doing a lawfull thing.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conceſ∣ſion. </seg>2d.</label> Secondly, If (upon ſuppoſition that the words of the En<g ref="char:EOLhyphen"/>gagement do import ſomething contrary unto thoſe Oaths, &amp;c.) it may be made good, that the Obligation of our for<g ref="char:EOLhyphen"/>mer Oaths and Covenants doth ceaſe upon this new eſta<g ref="char:EOLhyphen"/>bliſhment. This is the grand <hi>Quaere.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, We do acknowledge, that ſome things, whereunto we formerly have been obliged, are (by the wonderfull pro<g ref="char:EOLhyphen"/>vidence of our God) rendred infeazible and impoſſible to us: <hi>viz:</hi> ſuch as concerned the perſon of our late King, &amp;c. God hath diſobliged us from ſuch: and our hands are upon our mouthes, becauſe God hath done it.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2ly, But yet there are other things, that are left by the providence of the ſame God feazible and poſſible, as, the ex<g ref="char:EOLhyphen"/>cluſion of the Popes, and forrain Princes and States Supre<g ref="char:EOLhyphen"/>macy, and intermedling with the affairs of this Kingdom, the extirpation of Popery, Prelacy, ſuperſtition, hereſie,
+<pb n="7" facs="tcp:165493:4"/> ſchiſme, profaneneſſe, &amp;c. as may be ſeen in the particulars of thoſe Oaths, Covenant, and Proteſtation. Some of which ſeem to croſſe the very intention of this preſent Engagement, as that particular of our ſwearing, to bear faith and true al<g ref="char:EOLhyphen"/>legiance to the Kings Heirs, and lawfull Succeſſors, &amp;c. Un<g ref="char:EOLhyphen"/>to ſuch things as theſe, we are ſtill bound, if there be not ſuf<g ref="char:EOLhyphen"/>ficient reaſon alledged for our diſobligation to thoſe Oaths, by virtue of the preſent Eſtabliſhment.</p>
+            <p>Now we conceive there may be three grounds, whereupon a people may hold themſelves diſ-obliged from their Oaths to former governments, upon the ſucceſſion.</p>
+            <p>Firſt, If thoſe Oaths were <hi>vincula iniquitatis, (i. e.)</hi> if they did oblige men unto any Government that is of it ſelf un<g ref="char:EOLhyphen"/>lawfull, and contrariant to the rule of Gods Word. When Monarchy ſhall be made good to us to be ſo, we ſhall not re<g ref="char:EOLhyphen"/>fuſe to engage againſt it.</p>
+            <p>2ly, In caſe the alteration be made by ſuch, who, by the fundamentall Laws of the Land, have the power of making ſuch alteration. Which power, by the Statute of 13 <hi>Eliz:</hi> is expreſly conferr'd upon the three Eſtates in Parliament. If this alteration come to us with ſuch an Authority, we hold our ſelves diſobliged from our Oaths to all former Eſtabliſhments, and are ready to ſubſcribe.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3ly, In caſe of Conqueſt; when an over-ruling power (by force of Arms, or otherwiſe) ſhall conquer a Nation, and render, as well the people unable to maintain their former Government, and Governors, as the Governors to defend and protect their people, in the purſuit of their Oaths, Cove<g ref="char:EOLhyphen"/>nants, and Obligations to them; Then we count it lawfull for a people to make the beſt conditions they can with the Conquerors, to deſire protection from them, and promiſe ſubjection to them. And the reaſon is, becauſe all former Obligations either of the Governors to the Governed, or the Governed to the Governors, did extend no farther then the power of the obliged on both parts. Which power, on both parties, being, by a totall Conqueſt, over-come by a third party; the obligation to the mutuall exerciſe of that
+<pb n="8" facs="tcp:165493:5"/> power muſt needs ceaſe, becauſe the power it ſelf is ceaſed.</p>
+            <p>This Caſe if it be ours, and it be declared, avowed, and owned that we are a conquer'd Nation; We are readie to make the beſt conditions we can for our ſelves. And the former power (under the ſhadow whereof we breath'd) be<g ref="char:EOLhyphen"/>ing vaniſhed, whileſt we cry Quarter, and look for protecti<g ref="char:EOLhyphen"/>on from the ſucceeding Power, we declare, and promiſe that we will be true and faithfull thereunto in all things, where<g ref="char:EOLhyphen"/>by we may not draw upon our ſelves the guilt of diſobedi<g ref="char:EOLhyphen"/>ence unto God.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
